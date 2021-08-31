@@ -11,7 +11,7 @@
 
       <v-spacer></v-spacer>
 
-      <span class="mr-2">버전 V1</span>
+      <span class="mr-2">버전 V1.1</span>
     </v-app-bar>
 
     <v-main>
